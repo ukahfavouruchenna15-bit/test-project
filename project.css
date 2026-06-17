@@ -34,3 +34,27 @@
   height: 50vh;
   background-color: pink;
 }
+.photos {
+  display: flex;
+  height: auto;
+  width: 90%;
+  margin: auto;
+  background-color: cornsilk;
+  /* justify-self: center; */
+}
+.img1 {
+  width: 30%;
+  display: flex;
+  height: 50vh;
+  gap: 3px;
+}
+.img2 {
+  width: 30%;
+  display: flex;
+  height: 50vh;
+}
+.img3 {
+  width: 30%;
+  display: flex;
+  height: 50vh;
+}
